@@ -15,7 +15,6 @@ Deep Harman
 
 27/11
 Bittu Das
-<<<<<<< HEAD
 Kabir Farooqui
 Shilpayan Mandal
 =======
